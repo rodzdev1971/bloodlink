@@ -1,6 +1,6 @@
 export default function ContactUs(){
     return(
-      <section className='py-10 px-70 max-w-full m-auto' id="contact">
+      <section className='py-10 px-10 min-[900px]:px-50 max-w-full m-auto' id="contact">
         <p className="text-4xl font-bold underline pb-2">Contact Us</p>
         <form>
           <div className="py-2">

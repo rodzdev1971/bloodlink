@@ -1,6 +1,6 @@
 export default function RegisterDonorForm() {
     return (
-      <section className='py-5 px-70 max-w-full m-auto' id="register-donor">
+      <section className='py-5 px-10 min-[900px]:px-50 max-w-full m-auto' id="register-donor">
         <p className="text-4xl font-bold pb-2">Register as Donor</p>
         <form className="flex flex-col">
         <div className="py-2">

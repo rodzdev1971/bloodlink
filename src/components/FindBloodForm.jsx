@@ -1,6 +1,6 @@
 export default function FindBloodForm(){
     return(
-      <section className='py-5 px-70 max-w-full m-auto' id="find-blood">
+      <section className='py-5 px-10 min-[900px]:px-50 max-w-full m-auto' id="find-blood">
       <p className="text-4xl font-bold pb-2">Find Blood</p>
       <form className="flex flex-col">
         <div className="py-2">
